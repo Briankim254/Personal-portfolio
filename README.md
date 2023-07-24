@@ -1,6 +1,6 @@
 # Personal Portfolio Website in React
 
-This Portfolio website is deployed at: [Brian Kimutai.dev]([https://github.com/facebook/create-react-app](https://briankim254.github.io/Personal-portfolio/)).
+This Portfolio website is deployed at: [Brian Kimutai.dev](https://briankim254.github.io/Personal-portfolio/).
 
 ![github](https://github.com/Briankim254/Personal-portfolio/assets/91450029/f2014bb3-64af-42b3-afcf-c5a073d285f6)
 
